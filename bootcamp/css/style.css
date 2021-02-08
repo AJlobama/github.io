@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.title-name {
+    font-size: 48px;
+}
+
+.birth-info {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.description {
+    font-size: 14px;
+}
+
+.title-work {
+    font-size: 18px;
+}
+
+.color-title {
+    color: #249ce2;
+}
